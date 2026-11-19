@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**DimitriBolt/DimitriBolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Dimitri Bolt
+Applied mathematics PhD student at the University of Arizona. My work combines mathematical modeling, scientific computing, statistics, and machine learning, with applications in environmental systems, computational physics, and quantitative finance.
+## Selected research and software
+- [CO2Flux](https://github.com/DimitriBolt/CO2Flux): environmental time-series analysis and Fourier phase diagnostics at Biosphere 2 (ongoing).
+- [Plasma](https://github.com/DimitriBolt/Plasma): eight-stage computational study of acoustic bubble dynamics and nanoparticle-assisted heating.
+- [DigitalTwin](https://github.com/DimitriBolt/DigitalTwin): rainforest climate data preparation and research prototype.
+- [ou-in-equity-markets](https://github.com/DimitriBolt/ou-in-equity-markets): empirical comparison of diffusion, GBM, and Ornstein–Uhlenbeck benchmarks.
+- [Social-processes](https://github.com/DimitriBolt/Social-processes): portfolio optimization and robust covariance estimation.
+- [QuantitativeAnalysis](https://github.com/DimitriBolt/QuantitativeAnalysis): intraday market-data research and walk-forward backtesting.
+## Methods and tools
+Python, R, MATLAB, PyTorch, numerical ODE/PDE methods, optimization, stochastic processes, Fourier analysis, SVD/PCA, and scientific data engineering.
